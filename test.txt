@@ -3,3 +3,5 @@ master
 one
 test
 two
+
+newlineone
